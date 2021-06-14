@@ -21,7 +21,7 @@ print ('''
 <br><br><br><br>
 <nav id="nav" style=" color: green; background-color: darkseagreen; width: 99%" align="right"><a href="adata1.py">ADMIN </a><a href="log_out.py"">  LOG OUT</a></nav>
 ''')
-import marq
+import marq1
 print('''
 <br>
 <br>
